@@ -1,4 +1,4 @@
-SnaiCraft
+SnaiPack
 =========
 
-Configurations for SnaiCraft Modpack
+Configurations for SnaiPack Modpack
